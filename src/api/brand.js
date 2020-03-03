@@ -50,4 +50,5 @@ export function updateBrand(id,data) {
     data:data
   })
 }
+// fchh test
 
